@@ -1,8 +1,10 @@
 2026/09/16 15:28:50
 
-<!-- notify 1/2 · O4Jk2HHg -->
-## Notification 1/2
-Round: Round 1
-To: angellove71647@yahoo.com, angellove9200@yahoo.com
-At: 2026-09-16 15:28:59
-Id: O4Jk2HHg
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angellover20062002@yahoo.com, angellover71832@yahoo.com
+At: 2026-09-16 15:29:08
+Id: pMM4SQHL
